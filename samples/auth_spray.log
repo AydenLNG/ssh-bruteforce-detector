@@ -1,0 +1,38 @@
+Nov 16 09:00:00 ubuntu-vm sshd[6419]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:10:00 ubuntu-vm sshd[4685]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:20:00 ubuntu-vm sshd[4951]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:20:00 ubuntu-vm CRON[4645]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 16 09:20:01 ubuntu-vm sudo: ayden : TTY=pts/0 ; PWD=/home/ayden ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 16 09:20:02 ubuntu-vm systemd-logind[812]: New session 42 of user ayden.
+Nov 16 09:20:03 ubuntu-vm sshd[6792]: Received disconnect from 192.168.1.10 port 51234:11: disconnected by user
+Nov 16 09:30:00 ubuntu-vm sshd[3382]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:40:00 ubuntu-vm sshd[7734]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 09:50:00 ubuntu-vm sshd[3773]: Accepted publickey for deploy from 192.168.1.22 port 51022 ssh2: RSA SHA256:abc123
+Nov 16 10:00:00 ubuntu-vm sshd[9085]: Failed password for invalid user admin from 198.51.100.7 port 3600 ssh2
+Nov 16 10:00:17 ubuntu-vm sshd[7464]: Failed password for invalid user admin from 198.51.100.7 port 3617 ssh2
+Nov 16 10:00:34 ubuntu-vm sshd[5809]: Failed password for invalid user administrator from 198.51.100.7 port 3634 ssh2
+Nov 16 10:00:51 ubuntu-vm sshd[3299]: Failed password for invalid user administrator from 198.51.100.7 port 3651 ssh2
+Nov 16 10:01:08 ubuntu-vm sshd[6770]: Failed password for invalid user test from 198.51.100.7 port 3668 ssh2
+Nov 16 10:01:25 ubuntu-vm sshd[6216]: Failed password for invalid user test from 198.51.100.7 port 3685 ssh2
+Nov 16 10:01:42 ubuntu-vm sshd[4888]: Failed password for invalid user guest from 198.51.100.7 port 3702 ssh2
+Nov 16 10:01:59 ubuntu-vm sshd[4114]: Failed password for invalid user guest from 198.51.100.7 port 3719 ssh2
+Nov 16 10:02:16 ubuntu-vm sshd[1921]: Failed password for invalid user oracle from 198.51.100.7 port 3736 ssh2
+Nov 16 10:02:33 ubuntu-vm sshd[8245]: Failed password for invalid user oracle from 198.51.100.7 port 3753 ssh2
+Nov 16 10:02:50 ubuntu-vm sshd[6831]: Failed password for invalid user postgres from 198.51.100.7 port 3770 ssh2
+Nov 16 10:03:07 ubuntu-vm sshd[9744]: Failed password for invalid user postgres from 198.51.100.7 port 3787 ssh2
+Nov 16 10:03:24 ubuntu-vm sshd[5652]: Failed password for invalid user ubuntu from 198.51.100.7 port 3804 ssh2
+Nov 16 10:03:41 ubuntu-vm sshd[4709]: Failed password for invalid user ubuntu from 198.51.100.7 port 3821 ssh2
+Nov 16 10:03:58 ubuntu-vm sshd[5856]: Failed password for invalid user ftp from 198.51.100.7 port 3838 ssh2
+Nov 16 10:04:15 ubuntu-vm sshd[7004]: Failed password for invalid user ftp from 198.51.100.7 port 3855 ssh2
+Nov 16 10:04:32 ubuntu-vm sshd[1304]: Failed password for invalid user git from 198.51.100.7 port 3872 ssh2
+Nov 16 10:04:49 ubuntu-vm sshd[7951]: Failed password for invalid user git from 198.51.100.7 port 3889 ssh2
+Nov 16 10:05:06 ubuntu-vm sshd[4824]: Failed password for invalid user jenkins from 198.51.100.7 port 3906 ssh2
+Nov 16 10:05:23 ubuntu-vm sshd[9761]: Failed password for invalid user jenkins from 198.51.100.7 port 3923 ssh2
+Nov 16 10:05:40 ubuntu-vm sshd[1447]: Failed password for invalid user tomcat from 198.51.100.7 port 3940 ssh2
+Nov 16 10:05:57 ubuntu-vm sshd[4639]: Failed password for invalid user tomcat from 198.51.100.7 port 3957 ssh2
+Nov 16 10:06:14 ubuntu-vm sshd[1098]: Failed password for invalid user nagios from 198.51.100.7 port 3974 ssh2
+Nov 16 10:06:31 ubuntu-vm sshd[3650]: Failed password for invalid user nagios from 198.51.100.7 port 3991 ssh2
+Nov 16 10:06:48 ubuntu-vm sshd[5911]: Failed password for invalid user www-data from 198.51.100.7 port 4008 ssh2
+Nov 16 10:07:05 ubuntu-vm sshd[1415]: Failed password for invalid user www-data from 198.51.100.7 port 4025 ssh2
+Nov 16 10:07:22 ubuntu-vm sshd[2009]: Failed password for invalid user support from 198.51.100.7 port 4042 ssh2
+Nov 16 10:07:39 ubuntu-vm sshd[5447]: Failed password for invalid user support from 198.51.100.7 port 4059 ssh2

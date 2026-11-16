@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+.idea/
+.vscode/
+
+# Generated reports. The samples ARE committed on purpose - a repo nobody can run
+# is a repo nobody evaluates - but output is not.
+report.txt
+report.json
+*.out
